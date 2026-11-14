@@ -86,7 +86,6 @@ git clone https://github.com/ioarunkumar/LocalPort.git
 cd LocalPort
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Install the dependency
 
