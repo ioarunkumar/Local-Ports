@@ -82,7 +82,7 @@ Sometimes a browser tab at `http://localhost:3000` stops responding, or a new pr
 Clone the repository or download the source files.
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/LocalPort.git
+git clone https://github.com/ioarunkumar/LocalPort.git
 cd LocalPort
 ```
 
